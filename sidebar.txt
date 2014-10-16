@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfx:home|Door43 (bfx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfx|d43-bfx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfx/archive/master.zip|d43-bfx.zip]]
+
+**Recent Changes**
+{{changes>ns = bfx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfx|Ethnologue data]]
+
